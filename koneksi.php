@@ -1,7 +1,7 @@
 <?php
 class Koneksi{
     private $server = "localhost";
-    private $username = "sunitarani98";
+    private $username = "id5675777_uas_webprog";
     private $password = "sunita98";
     private $db = "id5675777_uas_webprog";
     private $hubungan;
